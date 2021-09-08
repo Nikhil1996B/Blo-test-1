@@ -1,0 +1,73 @@
+{
+    "data":{
+       "products":[
+          {
+             "img":"https://res.cloudinary.com/rarible-inc/image/upload/t_featured/attachments/adbe321c517c53fbb4f38002d2b53c1e/c6c9e4de/Screenshot2021-09-06at16_28_05.png",
+             "title":"COSMIC-WATCHER",
+             "author":"jill111",
+             "cols":2,
+             "featured":true,
+             "bid":"3.5ETH"
+          },
+          {
+             "img":"https://img.rarible.com/prod/image/upload/t_gif_preview/prod-itemImages/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:639028",
+             "title":"FIRE WATCHER",
+             "author":"director90",
+             "featured":true
+          },
+          {
+             "img":"https://img.rarible.com/prod/image/upload/t_gif_preview/prod-itemImages/0x60f80121c31a0d46b5279700f9df786054aa5ee5:1316045",
+             "title":"bROKEN#BOI",
+             "author":"Danson67"
+          },
+          {
+             "img":"https://img.rarible.com/prod/image/upload/t_gif_preview/prod-itemImages/0x60f80121c31a0d46b5279700f9df786054aa5ee5:70217",
+             "title":"Black Box Series #1",
+             "author":"fancycrave1",
+             "featured":true
+          },
+          {
+             "img":"https://img.rarible.com/prod/image/upload/t_gif_preview/prod-itemImages/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:642872",
+             "title":"4 bulls #",
+             "author":"Hans"
+          },
+          {
+             "img":"https://img.rarible.com/prod/image/upload/t_gif_preview/prod-itemImages/0x60f80121c31a0d46b5279700f9df786054aa5ee5:1070161",
+             "title":"Honey",
+             "author":"Unilayer"
+          },
+          {
+             "img":"https://img.rarible.com/prod/image/upload/t_preview/prod-itemImages/0x495f947276749ce646f68ac8c248420045cb7b5e:63503052419629984512366218382483595318617729685080143980265160339524981620986",
+             "title":"Vegetables",
+             "author":"jill111",
+             "cols":2
+          },
+          {
+             "img":"https://img.rarible.com/prod/image/upload/t_preview/prod-itemImages/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:644893",
+             "title":"Water plant",
+             "author":"BkrmadtyaKarki"
+          },
+          {
+             "img":"https://img.rarible.com/prod/image/upload/t_preview/prod-itemImages/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:644893",
+             "title":"Mushrooms",
+             "author":"PublicDomainPictures"
+          },
+          {
+             "img":"https://img.rarible.com/prod/image/upload/t_gif_preview/prod-itemImages/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:537999",
+             "title":"Olive oil",
+             "author":"congerdesign"
+          },
+          {
+             "img":"https://img.rarible.com/prod/image/upload/t_gif_preview/prod-itemImages/0x60f80121c31a0d46b5279700f9df786054aa5ee5:1188033",
+             "title":"Sea star",
+             "cols":2,
+             "author":"821292"
+          },
+          {
+             "img":"https://img.rarible.com/prod/image/upload/t_preview/prod-itemImages/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:644893",
+             "title":"Bike",
+             "author":"danfador"
+          }
+       ]
+    }
+ }

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NavBar /> should match snapshot 1`] = `
+<WithStyles(ForwardRef(AppBar))
+  position="fixed"
+>
+  <WithStyles(ForwardRef(Toolbar))
+    className="makeStyles-toolbar-1"
+  >
+    <WithStyles(ForwardRef(Typography))
+      className="makeStyles-logoLg-2"
+      variant="h6"
+    >
+      Blocommerce
+    </WithStyles(ForwardRef(Typography))>
+    <div
+      className="makeStyles-icons-3"
+    >
+      <WithStyles(ForwardRef(Badge))
+        badgeContent={2}
+        className="makeStyles-badge-4"
+        color="secondary"
+      >
+        <Memo />
+      </WithStyles(ForwardRef(Badge))>
+      <WithStyles(ForwardRef(Avatar))
+        alt="Remy Sharp"
+        src=""
+      >
+        N
+      </WithStyles(ForwardRef(Avatar))>
+    </div>
+  </WithStyles(ForwardRef(Toolbar))>
+</WithStyles(ForwardRef(AppBar))>
+`;
